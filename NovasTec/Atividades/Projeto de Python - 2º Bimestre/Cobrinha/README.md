@@ -1,7 +1,7 @@
 ## Tecnologias
 
 <p align = center>
-  <a target="blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" width="100" alt="HTML logo" /></a>
+  <a target="blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" width="400" alt="HTML logo" /></a>
 </p>
 
 # Jogo da Cobrinha
